@@ -1,8 +1,9 @@
 {
   "versions": [
     {
-      "version": "v1",
+      "version": "v1.00",
       "date": "2026-01-14",
+      "base": "413.0.0.0.56",
       "changes": [
         "🚀 Initial Release",
         "InstaZen first public release",
@@ -29,30 +30,16 @@
         "Reels quick share tray",
 
         "🎨 Emojis and Fonts",
-        "Change app font (default or from device)",
         "Change app emoji style",
-        "Load emoji from local storage (TTF)",
-        "Download and apply iOS emojis",
-        "Reset to original emojis",
-        "Enable iOS emojis only in comments",
+        "Emoji menu via long press on Instagram icon",
 
         "⬇️ Download Settings",
-        "Split downloads by username",
-        "Custom download path support",
+        "Improved download options",
 
-        "🧰 Extra Options",
-        "Disable ads",
-        "Disable analytics",
-        "Disable video autoplay",
-        "Disable double tap like",
-        "Hide suggested reels",
-        "Enable or disable all extra features in one tap",
-
-        "💾 Backup and Restore",
-        "Export settings backup",
-        "Import settings backup",
-        "Save ID name mapping as JSON",
-        "Clear developer mode settings"
+        "🧰 Performance and Stability",
+        "Improved follow indicator behavior",
+        "Reduced lag issues",
+        "Minor bug improvements"
       ]
     }
   ]
