@@ -1,0 +1,59 @@
+{
+  "versions": [
+    {
+      "version": "v1",
+      "date": "2026-01-14",
+      "changes": [
+        "🚀 Initial Release",
+        "InstaZen first public release",
+        "Fully custom InstaZen settings panel",
+        "Smooth and modern dark UI design",
+        "Optimized performance and stability",
+
+        "👻 Ghost Mode",
+        "Hide typing indicator in DM",
+        "Hide story views",
+        "Hide live viewing status",
+        "View one-time media again",
+        "Hide screenshot detection",
+        "Hide replay status",
+        "Hide message seen status in DM",
+        "Enable or disable all ghost features in one tap",
+
+        "⭐ Special Features",
+        "Follow indicator",
+        "Full screen reels",
+        "Priority stories (top 5 friends)",
+        "120 seconds music stories",
+        "Enhanced media quality",
+        "Reels quick share tray",
+
+        "🎨 Emojis and Fonts",
+        "Change app font (default or from device)",
+        "Change app emoji style",
+        "Load emoji from local storage (TTF)",
+        "Download and apply iOS emojis",
+        "Reset to original emojis",
+        "Enable iOS emojis only in comments",
+
+        "⬇️ Download Settings",
+        "Split downloads by username",
+        "Custom download path support",
+
+        "🧰 Extra Options",
+        "Disable ads",
+        "Disable analytics",
+        "Disable video autoplay",
+        "Disable double tap like",
+        "Hide suggested reels",
+        "Enable or disable all extra features in one tap",
+
+        "💾 Backup and Restore",
+        "Export settings backup",
+        "Import settings backup",
+        "Save ID name mapping as JSON",
+        "Clear developer mode settings"
+      ]
+    }
+  ]
+}
