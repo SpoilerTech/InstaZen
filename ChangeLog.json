@@ -1,3 +1,28 @@
+
+
+
+
+
+
+{
+  "versions": [
+    {
+      "version": "v1.10",
+      "date": "2026-01-14",
+      "base": "413.0.0.0.56",
+      "changes": [
+
+        "🧰 Performance and Stability",
+        "Improved follow indicator behavior",
+        "Reduced lag issues",
+        "Minor bug improvements"
+      ]
+    }
+  ]
+}
+
+
+
 {
   "versions": [
     {
