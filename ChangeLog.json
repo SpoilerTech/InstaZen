@@ -1,9 +1,34 @@
 {
   "versions": [
     {
+      "version": "v2.00",
+      "date": "2026-01-25",
+      "changes": [
+        "🚀 Version 2 Major Update",
+
+        "🧘 Distraction Free Mode",
+        "Hide suggested posts",
+        "Hide reels from feed",
+        "Hide Stories Tray",
+        "Clean and focused home feed",
+
+        "🙈 Hidden Mentions",
+        "View Hidden Mentions in Stories",
+        "View Hidden Mentions in Highlights",
+
+        "🎨 UI Improvements",
+        "Polished layouts",
+        "Minor UI fixes",
+        "Better spacing and alignment",
+
+        "⚡ Performance",
+        "Faster app loading",
+        "Improved stability"
+      ]
+    },
+    {
       "version": "v1.00",
       "date": "2026-01-14",
-      "base": "413.0.0.0.56",
       "changes": [
         "🚀 Initial Release",
         "InstaZen first public release",
