@@ -1,6 +1,33 @@
 {
   "versions": [
     {
+      "version": "v3.00",
+      "date": "2026-02-08",
+      "changes": [
+        "🚀 Version 3 Major Update",
+
+        "✨ Special Features",
+        "Content Options Layout customization",
+        "New Notes Layout (redesigned UI & spacing)",
+        "Username to Messages tap action",
+        "Story Viewer Search bar added",
+        "Story Like Animation",
+        "Story Ring Size adjustment",
+        "Pinch to Zoom Stories",
+        "Pinch to Zoom Reels",
+        "Upload Reels up to 10 Minutes",
+        "Advanced Repost Options",
+        "Repost to story",
+        "Repost with text",
+        "Enhanced Media Quality",
+        "Valentine Notes Theme",
+        "Valentine Mention Sticker",
+
+        "⚙️ Extra Options",
+        "Disable Story Auto-Next"
+      ]
+    },
+    {
       "version": "v2.00",
       "date": "2026-01-25",
       "changes": [
