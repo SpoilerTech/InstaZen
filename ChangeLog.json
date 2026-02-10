@@ -2,28 +2,23 @@
   "versions": [
     {
       "version": "v3.00",
-      "date": "2026-02-08",
+      "date": "2026-02-10",
       "changes": [
         "🚀 Version 3 Major Update",
 
         "✨ Special Features",
-        "Content Options Layout customization",
-        "New Notes Layout (redesigned UI & spacing)",
-        "Username to Messages tap action",
-        "Story Viewer Search bar added",
-        "Story Like Animation",
-        "Story Ring Size adjustment",
-        "Pinch to Zoom Stories",
-        "Pinch to Zoom Reels",
-        "Upload Reels up to 10 Minutes",
-        "Advanced Repost Options",
-        "Repost to story",
-        "Repost with text",
+        "Redesigned Notes Layout",
+        "Content Layout customization",
+        "Username → Messages action",
+        "Story Search + Like Animation",
+        "Story Ring Size control",
+        "Pinch Zoom (Stories & Reels)",
+        "10 Min Reels Upload",
+        "Advanced Repost",
         "Enhanced Media Quality",
-        "Valentine Notes Theme",
-        "Valentine Mention Sticker",
+        "Valentine Theme & Sticker",
 
-        "⚙️ Extra Options",
+        "⚙️ Extra",
         "Disable Story Auto-Next"
       ]
     },
@@ -59,39 +54,36 @@
       "changes": [
         "🚀 Initial Release",
         "InstaZen first public release",
-        "Fully custom InstaZen settings panel",
-        "Smooth and modern dark UI design",
-        "Optimized performance and stability",
+        "Custom InstaZen settings panel",
+        "Modern dark UI design",
+        "Optimized performance",
 
         "👻 Ghost Mode",
-        "Hide typing indicator in DM",
+        "Hide typing indicator",
         "Hide story views",
         "Hide live viewing status",
         "View one-time media again",
         "Hide screenshot detection",
         "Hide replay status",
-        "Hide message seen status in DM",
-        "Enable or disable all ghost features in one tap",
+        "Hide seen status in DM",
 
         "⭐ Special Features",
         "Follow indicator",
         "Full screen reels",
-        "Priority stories (top 5 friends)",
-        "120 seconds music stories",
+        "Priority stories",
+        "120 sec music stories",
         "Enhanced media quality",
-        "Reels quick share tray",
 
-        "🎨 Emojis and Fonts",
-        "Change app emoji style",
-        "Emoji menu via long press on Instagram icon",
+        "🎨 Emojis & Fonts",
+        "Change emoji style",
+        "Emoji menu via icon long press",
 
-        "⬇️ Download Settings",
+        "⬇️ Download",
         "Improved download options",
 
-        "🧰 Performance and Stability",
-        "Improved follow indicator behavior",
-        "Reduced lag issues",
-        "Minor bug improvements"
+        "🧰 Stability",
+        "Reduced lag",
+        "Bug fixes"
       ]
     }
   ]
