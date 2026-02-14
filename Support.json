@@ -9,7 +9,7 @@
   "dialog_button_text": "🤝 Ok, continue",
   "dialog_cancel_text": "Later",
   "dialog_link": "https://omg10.com/4/10607500",
-  "dialog_use_webview": true,
+  "dialog_use_webview": false,
   "adblock_title": "🚫 AdBlocker Detected!",
   "adblock_message": "AdBlocker OFF karein!\n\n1. Settings kholein\n2. Private DNS OFF karein\n3. AdBlocker uninstall karein\n4. App restart karein",
   "app_version_code": 1,
