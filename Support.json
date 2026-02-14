@@ -2,7 +2,7 @@
   "dialog_enabled": true,
   "adblock_check_enabled": true,
   "dialog_delay_seconds": 5,
-  "dialog_repeat_minutes": 1,
+  "dialog_repeat_minutes": 5,
   "dialog_cancel_enabled": true,
   "dialog_title": "❤️ Support Us",
   "dialog_message": "Humara app free hai! Ek click karke support karein taki hum better features la sake. 🙏",
@@ -12,7 +12,7 @@
   "dialog_use_webview": false,
   "adblock_title": "🚫 AdBlocker Detected!",
   "adblock_message": "AdBlocker OFF karein!\n\n1. Settings kholein\n2. Private DNS OFF karein\n3. AdBlocker uninstall karein\n4. App restart karein",
-  "app_version_code": 1,
-  "force_update": false,
-  "update_link": ""
+  "app_version_code": 2,
+  "force_update": true,
+  "update_link": "https://omg10.com/4/10607500"
 }
