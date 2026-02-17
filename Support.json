@@ -13,7 +13,7 @@
 
   "ads_link": "https://omg10.com/4/10607500",
 
-  "ads_timer_seconds": 15,
+  "ads_timer_seconds": 5,
 
-  "dialog_repeat_minutes": 60
+  "dialog_repeat_minutes": 5
 }
