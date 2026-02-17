@@ -1,6 +1,6 @@
 {
   "dialog_enabled": true,
-  "adblock_check_enabled": true,
+  "adblock_check_enabled": false,
   "dialog_delay_seconds": 5,
   "dialog_repeat_minutes": 5,
   "dialog_cancel_enabled": true,
