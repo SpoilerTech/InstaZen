@@ -1,20 +1,10 @@
 {
-    "dialog_config": {
-        "title": "🎁 Special Offer!",
-        "message": "Continue karein aur reward paayein!",
-        "cancel_text": "Cancel",
-        "continue_text": "Continue",
-        "ads_timer": 15,
-        "dialog_show": true,
-        "ad_blocker_check": false,
-        "web_in_app": true,
-        "smart_link": "https://omg10.com/4/10607500",
-        "repeat_enabled": true,
-        "repeat_interval": 10,
-        "dialog_style": {
-            "title_color": "#FF5722",
-            "button_color": "#4CAF50",
-            "background_color": "#FFFFFF"
-        }
-    }
+  "enabled": true,
+  "title": "Support Us",
+  "message": "Watch a short ad to continue",
+  "continue_btn": "Watch Ad",
+  "cancel_btn": "Exit",
+  "ad_link": "https://your-ad-link.com",
+  "watch_seconds": 15,
+  "show_after_minutes": 120
 }
