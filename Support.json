@@ -1,11 +1,11 @@
 {
-  "enabled": true,
-  "icon": "gift",
-  "title": "Support Us",
-  "message": "Watch a short ad to support the developer and unlock the app.",
-  "cancel_btn": "Cancel",
-  "continue_btn": "Continue",
-  "ad_link": "https://omg10.com/4/10607500",
-  "watch_seconds": 15,
-  "show_after_minutes": 120
+    "enabled": true,                    // Dialog on/off
+    "repeat_minutes": 10,                // Kitni der baad dobara dikhana hai
+    "dialog_title": "Support Us 🙏",     // Title
+    "message": "Please support us...",   // Message
+    "positive_text": "Watch Ad",         // Positive button text
+    "negative_text": "Later",            // Negative button text
+    "show_negative": true,                // Negative button dikhana hai ya nahi
+    "ad_url": "https://omg10.com/4/10607500",             // Ad link
+    "wait_seconds": 15                    // Wait time in seconds
 }
