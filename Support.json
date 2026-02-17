@@ -9,6 +9,8 @@
         "ad_blocker_check": false,
         "web_in_app": true,
         "smart_link": "https://omg10.com/4/10607500",
+        "repeat_enabled": true,
+        "repeat_interval": 10,
         "dialog_style": {
             "title_color": "#FF5722",
             "button_color": "#4CAF50",
