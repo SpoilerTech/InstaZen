@@ -1,9 +1,10 @@
 {
   "enabled": true,
+  "icon": "gift",
   "title": "Support Us",
-  "message": "Watch a short ad to continue",
-  "continue_btn": "Watch Ad",
-  "cancel_btn": "Exit",
+  "message": "Watch a short ad to support the developer and unlock the app.",
+  "cancel_btn": "Cancel",
+  "continue_btn": "Continue",
   "ad_link": "https://omg10.com/4/10607500",
   "watch_seconds": 15,
   "show_after_minutes": 120
