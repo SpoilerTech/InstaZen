@@ -3,7 +3,7 @@
 
   "title": "Support Us ❤️",
 
-  "message": "Please support us by visiting our sponsor to keep this app free.",
+  "message": "Tap Support Now, wait 10 seconds on the sponsor page, then return to the app to continue.",
 
   "positive_button_name": "Support Now",
 
@@ -13,7 +13,7 @@
 
   "ads_link": "https://omg10.com/4/10607500",
 
-  "ads_timer_seconds": 5,
+  "ads_timer_seconds": 10,
 
-  "dialog_repeat_minutes": 5
+  "dialog_repeat_minutes": 120
 }
