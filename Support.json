@@ -16,4 +16,6 @@
   "ads_timer_seconds": 10,
 
   "dialog_repeat_minutes": 120
+
+  "required_ad_count": 3
 }
