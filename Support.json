@@ -4,7 +4,7 @@
   "message": "Tap Support Now, wait 5 seconds on the sponsor page, then return to the app to continue.",
   "positive_button_name": "Support Now",
   "negative_button_name": "Cancel",
-  "show_negative_button": true,
+  "show_negative_button": false,
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 5,
   "dialog_repeat_minutes": 120,
