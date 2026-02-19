@@ -1,5 +1,5 @@
 {
-  "show_dialog": false,
+  "show_dialog": true,
   "title": "Support Us ❤️",
   "message": "Tap Support Now, wait 10 seconds on the sponsor page, then return to the app to continue.",
   "positive_button_name": "Support Now",
