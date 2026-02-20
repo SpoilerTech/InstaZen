@@ -7,6 +7,6 @@
   "show_negative_button": false,
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 5,
-  "dialog_repeat_minutes": 120,
+  "dialog_repeat_minutes": 1440,
   "required_ad_count": 5
 }
