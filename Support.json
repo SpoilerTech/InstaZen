@@ -8,5 +8,27 @@
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 5,
   "dialog_repeat_minutes": 1440,
-  "required_ad_count": 5
+  "required_ad_count": 5,
+  "unlock_duration_hours": 24,
+  "telegram_username": "real_aman",
+  "show_premium_button": true,
+  "premium_button_text": "👑 Get Premium Access",
+  "premium_users": [
+    {
+      "user_id": "",
+      "expiry_days": 30,
+      "activated_date": "2025-01-15"
+    }
+  ],
+  "premium_expiry_warning": {
+    "enabled": true,
+    "show_days_before": 3,
+    "warning_frequency_hours": 24
+  },
+  "ui_settings": {
+    "show_progress_bar": true,
+    "show_confetti_on_complete": false,
+    "enable_copy_id_button": true,
+    "theme": "auto"
+  }
 }
