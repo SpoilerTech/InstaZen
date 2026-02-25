@@ -13,13 +13,7 @@
   "telegram_username": "real_aman",
   "show_premium_button": true,
   "premium_button_text": "👑 Get Premium Access",
-  "premium_users": [
-    {
-      "user_id": "",
-      "expiry_days": 30,
-      "activated_date": "2025-01-15"
-    }
-  ],
+  "premium_users": [],
   "premium_expiry_warning": {
     "enabled": true,
     "show_days_before": 3,
