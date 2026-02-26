@@ -4,7 +4,7 @@
   "message": "Help us keep InstaZen free! Watch a quick sponsor page and return to continue enjoying premium features.",
   "positive_button_name": "Support Now ➜",
   "negative_button_name": "Not Now",
-  "show_negative_button": true,
+  "show_negative_button": false,
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 5,
   "required_ad_count": 5,
