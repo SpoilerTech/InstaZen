@@ -1,113 +1,52 @@
 {
   "show_dialog": true,
   "title": "Support InstaZen ❤️",
-  "message": "Help us keep InstaZen free and ad-free! Watch a quick sponsor page and return to continue enjoying premium features.",
+  "message": "Help us keep InstaZen free! Watch a quick sponsor page and return to continue enjoying premium features.",
   "positive_button_name": "Support Now ➜",
   "negative_button_name": "Not Now",
   "show_negative_button": false,
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 5,
-  "dialog_repeat_minutes": 1440,
   "required_ad_count": 5,
   "unlock_duration_hours": 24,
   "telegram_username": "real_aman",
+  "telegram_link": "https://t.me/real_aman",
   "show_premium_button": true,
   "premium_button_text": "👑 Get Premium - No Ads Forever",
-  "telegram_link": "https://t.me/real_aman",
-  
+  "show_copy_button": true,
+  "copy_button_text": "📋 Copy ID",
+
   "premium_users": [
     {
       "user_id": "InstaZen-0001",
       "expiry_days": 36500,
       "activated_date": "2025-01-01",
       "note": "Developer - Lifetime"
-    },
-    {
-      "user_id": "InstaZen-0042",
-      "expiry_days": 365,
-      "activated_date": "2025-01-10",
-      "note": "Early supporter - 1 Year"
-    },
-    {
-      "user_id": "InstaZen-0123",
-      "expiry_days": 30,
-      "activated_date": "2025-01-14",
-      "note": "Monthly subscriber"
-    },
-    {
-      "user_id": "InstaZen-0456",
-      "expiry_days": 7,
-      "activated_date": "2025-01-15",
-      "note": "Trial user - 7 days"
-    },
-    {
-      "user_id": "InstaZen-0789",
-      "expiry_days": 90,
-      "activated_date": "2025-01-12",
-      "note": "Giveaway winner - 3 months"
     }
   ],
-  
+
   "premium_expiry_warning": {
     "enabled": true,
     "show_days_before": 3,
-    "warning_frequency_hours": 24,
-    "warning_title": "⚠️ Premium Expiring Soon!",
-    "warning_message": "Your premium access is about to expire. Renew now to continue ad-free experience!"
+    "warning_frequency_hours": 24
   },
-  
-  "ui_settings": {
-    "show_progress_bar": true,
-    "show_confetti_on_complete": true,
-    "enable_copy_id_button": true,
-    "theme": "auto",
-    "dialog_corner_radius": 20,
-    "button_color": "#FF4433",
-    "progress_bar_color": "#4CAF50",
+
+  "ui_colors": {
+    "support_button": "#FF4433",
+    "premium_button": "#FF9800",
+    "copy_button": "#666666",
     "title_color": "#000000",
-    "message_color": "#666666"
+    "message_color": "#666666",
+    "progress_color": "#4CAF50"
   },
-  
-  "dialog_texts": {
-    "welcome_title": "🎉 Welcome to InstaZen!",
-    "welcome_message": "Your premium Instagram experience starts here!",
+
+  "texts": {
+    "progress_format": "🎯 Progress: {current} / {total}",
+    "user_id_format": "📱 Your ID: {id}",
     "completion_title": "🎉 Congratulations!",
-    "completion_message": "You've completed all sponsor views!",
-    "copy_button_text": "📋 Copy My ID",
-    "copy_success_toast": "ID copied to clipboard!",
-    "unlock_text": "✅ Unlocked for {hours} hours",
-    "progress_text": "🎯 Progress: {current}/{total}"
-  },
-  
-  "ads_settings": {
-    "auto_increment_on_return": true,
-    "min_time_on_ad_page": 5,
-    "show_timer_countdown": true,
-    "allow_skip_after_seconds": 0
-  },
-  
-  "app_settings": {
-    "app_version": "1.0.0",
-    "min_supported_version": "1.0.0",
-    "force_update": false,
-    "update_link": "https://t.me/real_aman",
-    "update_message": "New version available! Update now for better experience."
-  },
-  
-  "maintenance": {
-    "enabled": false,
-    "title": "🔧 Under Maintenance",
-    "message": "We're improving InstaZen for you. Please try again later.",
-    "show_eta": true,
-    "eta_text": "Expected: 2 hours"
-  },
-  
-  "announcements": {
-    "enabled": false,
-    "show_once": true,
-    "title": "📢 New Update!",
-    "message": "Check out our new features!",
-    "button_text": "Learn More",
-    "button_link": "https://t.me/real_aman"
+    "completion_message": "You've completed all sponsor views!\n\n✅ App unlocked for {hours} hours!",
+    "warning_title": "⚠️ Premium Expiring Soon!",
+    "warning_message": "Your premium expires in {days} days!",
+    "copy_success": "✅ ID Copied!"
   }
 }
