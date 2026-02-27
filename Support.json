@@ -1,8 +1,10 @@
 {
   "show_dialog": true,
-  "title": "Support InstaZen ❤️",
-  "message": "Help us keep InstaZen free! Watch a quick sponsor page and return to continue enjoying premium features.",
-  "positive_button_name": "Support Now ➜",
+  "title": "Support InstaZen",
+  "title_emoji": "❤️",
+  "message": "Keep InstaZen free & ad-free\nWatch a quick sponsor page",
+  "positive_button_name": "Support Now",
+  "positive_button_emoji": "✨",
   "negative_button_name": "Not Now",
   "show_negative_button": true,
   "ads_link": "https://omg10.com/4/10625868",
@@ -12,41 +14,14 @@
   "telegram_username": "real_aman",
   "telegram_link": "https://t.me/real_aman",
   "show_premium_button": true,
-  "premium_button_text": "👑 Get Premium - No Ads Forever",
+  "premium_button_text": "Get Premium",
+  "premium_button_emoji": "👑",
+  "premium_button_subtext": "No Ads Forever",
   "show_copy_button": true,
-  "copy_button_text": "📋 Copy ID",
-
-  "premium_users": [
-    {
-      "user_id": "InstaZen-",
-      "expiry_days": 1,
-      "activated_date": "2026-02-27",
-      "note": "Developer - Lifetime"
-    }
-  ],
-
-  "premium_expiry_warning": {
-    "enabled": true,
-    "show_days_before": 3,
-    "warning_frequency_hours": 24
-  },
-
-  "ui_colors": {
-    "support_button": "#FF4433",
-    "premium_button": "#FF9800",
-    "copy_button": "#666666",
-    "title_color": "#000000",
-    "message_color": "#666666",
-    "progress_color": "#4CAF50"
-  },
-
-  "texts": {
-    "progress_format": "🎯 Progress: {current} / {total}",
-    "user_id_format": "📱 Your ID: {id}",
-    "completion_title": "🎉 Congratulations!",
-    "completion_message": "You've completed all sponsor views!\n\n✅ App unlocked for {hours} hours!",
-    "warning_title": "⚠️ Premium Expiring Soon!",
-    "warning_message": "Your premium expires in {days} days!",
-    "copy_success": "✅ ID Copied!"
-  }
+  "copy_button_text": "Copy",
+  "copy_button_emoji": "📋",
+  "progress_text": "completed",
+  "progress_of_text": "of",
+  "id_prefix_text": "ID:",
+  "premium_users": []
 }
