@@ -27,8 +27,8 @@
 
   "premium_expiry_warning": {
     "enabled": true,
-    "show_days_before": 0,
-    "warning_frequency_hours": 1
+    "show_days_before": 10,
+    "warning_frequency_hours": 24
   },
 
   "ui_colors": {
