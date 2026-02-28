@@ -27,7 +27,7 @@
 
   "premium_expiry_warning": {
     "enabled": true,
-    "show_days_before": 10,
+    "show_days_before": 1,
     "warning_frequency_hours": 24
   },
 
