@@ -8,7 +8,7 @@
   "ads_link": "https://omg10.com/4/10625868",
   "ads_timer_seconds": 15,
   "required_ad_count": 4,
-  "unlock_duration_hours": 1,
+  "unlock_duration_minutes": 60,
   "telegram_username": "real_aman",
   "telegram_link": "https://t.me/real_aman",
   "show_premium_button": true,
@@ -18,16 +18,16 @@
 
   "premium_users": [
     {
-      "user_id": "InstaZen-",
-      "expiry_days": 5,
-      "activated_date": "2026-02-27",
+      "user_id": "InstaZen-58aa7633",
+      "expiry_days": -1,
+      "activated_date": "2025-02-27",
       "note": "Developer - Lifetime"
     }
   ],
 
   "premium_expiry_warning": {
     "enabled": true,
-    "show_days_before": 1,
+    "show_days_before": 10,
     "warning_frequency_hours": 24
   },
 
@@ -44,7 +44,7 @@
     "progress_format": "🎯 Progress: {current} / {total}",
     "user_id_format": "📱 Your ID: {id}",
     "completion_title": "🎉 Congratulations!",
-    "completion_message": "You've completed all sponsor views!\n\n✅ App unlocked for {hours} hours!",
+    "completion_message": "You've completed all sponsor views!\n\n✅ App unlocked for {minutes} minutes!",
     "warning_title": "⚠️ Premium Expiring Soon!",
     "warning_message": "Your premium expires in {days} days!",
     "copy_success": "✅ ID Copied!"
