@@ -1,0 +1,41 @@
+{
+  "supporters": [
+    {
+      "rank": 1,
+      "name": "Rahul Sharma",
+      "amount": "₹500",
+      "emoji": "🥇"
+    },
+    {
+      "rank": 2,
+      "name": "Priya Singh",
+      "amount": "₹300",
+      "emoji": "🥈"
+    },
+    {
+      "rank": 3,
+      "name": "Amit Kumar",
+      "amount": "₹200",
+      "emoji": "🥉"
+    },
+    {
+      "rank": 4,
+      "name": "Sneha Patel",
+      "amount": "₹100",
+      "emoji": "⭐"
+    },
+    {
+      "rank": 5,
+      "name": "Vikram Joshi",
+      "amount": "₹100",
+      "emoji": "⭐"
+    }
+  ],
+  "payment_links": {
+    "upi_id": "spoilertechuco@ybl",
+    "upi_qr_url": "https://raw.githubusercontent.com/YourName/InstaZen/main/qr_upi.png",
+    "paypal_link": "https://paypal.me/spoilertech",
+    "paypal_qr_url": "https://raw.githubusercontent.com/YourName/InstaZen/main/qr_paypal.png",
+    "youtube_url": "https://youtube.com/c/spoilertech/join"
+  }
+}
