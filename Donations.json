@@ -14,16 +14,21 @@
   },
   
   "top_donations": [
-  {
-    "emoji": "🥇",
-    "name": "彡 CarlosR7 🇭🇳 彡",
-    "amount": "$8.74"
-  },
-  {
-    "emoji": "🥈",
-    "name": "THOTA HARI KRISHNA",
-    "amount": "₹300"
-  }
+    {
+      "emoji": "🥇",
+      "name": "彡 CarlosR7 🇭🇳 彡",
+      "amount": "$8.74"
+    },
+    {
+      "emoji": "🥈",
+      "name": "Shehzad Khan",
+      "amount": "₹500"
+    },
+    {
+      "emoji": "🥉",
+      "name": "THOTA HARI KRISHNA",
+      "amount": "₹300"
+    }
   ],
   
   "thank_you_message": "Thanks to all our supporters! 💕"
