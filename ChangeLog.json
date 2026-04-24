@@ -1,6 +1,25 @@
 {
   "versions": [
     {
+      "version": "v4.00",
+      "date": "2026-03-16",
+      "changes": [
+        "🚀 Version 4 Major Update",
+
+        "✨ Special Features",
+        "Copy Bio + Auto Save",
+        "Copy Comments + Auto Save",
+        "Once Media Download",
+        "User List Follow Indicator (BETA)",
+        "Auto Cache Cleaner",
+        "Change Chat Background",
+
+        "⚙️ Extra Mode",
+        "Remove Empty Space (Experimental)",
+        "50+ Languages Added"
+      ]
+    },
+    {
       "version": "v3.00",
       "date": "2026-02-10",
       "changes": [
@@ -18,7 +37,7 @@
         "Enhanced Media Quality",
         "Valentine Theme & Sticker",
 
-        "⚙️ Extra",
+        "⚙️ Extra Mode",
         "Disable Story Auto-Next"
       ]
     },
