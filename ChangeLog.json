@@ -1,6 +1,28 @@
 {
   "versions": [
     {
+      "version": "v5.00",
+      "date": "2026-04-25",
+      "changes": [
+        "🚀 Version 5 Update",
+        "Stability Improvements & Fixes",
+
+        "✨ Updated & Fixed",
+        "User List Follow Indicator Fixed",
+        "Change Chat Background Fixed",
+        "Remove Empty Space Fixed",
+        "Hide Opened Media Fixed",
+
+        "➕ Added Features (Miscellaneous)",
+        "Story Timestamp Options Added",
+        "Sanitize URLs Added",
+        "Story Ring Size Re-Added",
+
+        "❌ Removed",
+        "Copy Bio Option Removed"
+      ]
+    },
+    {
       "version": "v4.00",
       "date": "2026-03-16",
       "changes": [
@@ -10,11 +32,12 @@
         "Copy Bio + Auto Save",
         "Copy Comments + Auto Save",
         "Once Media Download",
+        "Marked as Seen Icon (Ghost Mode BETA)",
         "User List Follow Indicator (BETA)",
         "Auto Cache Cleaner",
         "Change Chat Background",
 
-        "⚙️ Extra Mode",
+        "⚙️ Extra",
         "Remove Empty Space (Experimental)",
         "50+ Languages Added"
       ]
@@ -37,7 +60,7 @@
         "Enhanced Media Quality",
         "Valentine Theme & Sticker",
 
-        "⚙️ Extra Mode",
+        "⚙️ Extra",
         "Disable Story Auto-Next"
       ]
     },
