@@ -1,6 +1,26 @@
 {
   "versions": [
     {
+      "version": "v6.00",
+      "date": "2026-05-14",
+      "changes": [
+        "🚀 Version 6 Big Update",
+        "Stability Improvements & Fixes",
+
+        "➕ Added Features",
+        "Hidden Mentions Indicator",
+        "Custom Story Fonts",
+        "Mark as Seen Stories",
+        "Amoled Theme (Default)",
+        "Copy Bio (Re-Added)",
+        "Download Profile Picture",
+        "Copy Username",
+        "Copy Full Name",
+        "Copy UserID"
+      ]
+    },
+
+    {
       "version": "v5.00",
       "date": "2026-04-25",
       "changes": [
@@ -22,6 +42,7 @@
         "Copy Bio Option Removed"
       ]
     },
+
     {
       "version": "v4.00",
       "date": "2026-03-16",
@@ -42,6 +63,7 @@
         "50+ Languages Added"
       ]
     },
+
     {
       "version": "v3.00",
       "date": "2026-02-10",
@@ -64,6 +86,7 @@
         "Disable Story Auto-Next"
       ]
     },
+
     {
       "version": "v2.00",
       "date": "2026-01-25",
@@ -90,6 +113,7 @@
         "Improved stability"
       ]
     },
+
     {
       "version": "v1.00",
       "date": "2026-01-14",
