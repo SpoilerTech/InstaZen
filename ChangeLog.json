@@ -1,5 +1,30 @@
 {
   "versions": [
+
+
+{
+  "version": "v7.00",
+  "date": "2026-06-25",
+  "changes": [
+    "🚀 Version 7 Big Update",
+    "Stability Improvements & Fixes",
+
+    "✨ Added & Improved",
+    "Deleted Messages (BETA)",
+    "Voice Message Download",
+    "Mark as Read / Always Read (Long Press the Delete Icon in the Typing Bar to Access)",
+    "Special Features Improved",
+    "Copy Caption + Auto Save",
+    "Custom Download Path Location",
+    "Download Notifications",
+    "Auto Update Checker Button",
+    "Backup Merge with Overwrite",
+    "Backup Merge without Overwrite",
+    "Custom Story Fonts Lag Fixed",
+    "Instagram Plus Features"
+  ]
+},
+    
     {
       "version": "v6.00",
       "date": "2026-05-14",
