@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "force_ads_watch": false,
+  "force_ads_watch": true,
   "daily_limit": 3,
   "trigger_opens": [1, 3, 5],
   "cooldown_minutes": 2,
