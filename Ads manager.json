@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "force_ads_watch": false,
+  "daily_limit": 3,
+  "trigger_opens": [1, 3, 5],
+  "cooldown_minutes": 15,
+  "title": "Support InstaZen \u2764\ufe0f",
+  "message": "Please complete the sponsor tasks to support future updates and keep InstaZen free for everyone.",
+  "footer": "Thank you for supporting InstaZen! \ud83d\ude80",
+  "links": [
+    "https://your-sponsor-link-1.com",
+    "https://your-sponsor-link-2.com",
+    "https://your-sponsor-link-3.com"
+  ]
+}
