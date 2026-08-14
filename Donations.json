@@ -3,33 +3,38 @@
     "qr_image": "https://github.com/user-attachments/assets/b916bcec-7643-4c10-8413-ab5932a9fd6b",
     "upi_id": "spoilertechuco@ybl"
   },
-  
+
   "paypal": {
     "qr_image": "https://github.com/user-attachments/assets/6de6d730-edbf-401a-83fb-dd070456c4d2",
     "paypal_link": "https://www.paypal.me/SpoilerTech"
   },
-  
+
   "youtube": {
     "channel_link": "https://www.youtube.com/@SpoilerTech/join"
   },
-  
+
   "top_donations": [
     {
       "emoji": "🥇",
-      "name": "彡 CarlosR7 🇭🇳 彡",
-      "amount": "$8.74"
+      "name": "KARAN VINODRAY DONGA",
+      "amount": "₹2000"
     },
     {
       "emoji": "🥈",
-      "name": "Shehzad Khan",
-      "amount": "₹500"
+      "name": "彡 CarlosR7 🇭🇳 彡",
+      "amount": "$8.74"
     },
     {
       "emoji": "🥉",
       "name": "THOTA HARI KRISHNA",
       "amount": "₹800"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Shehzad Khan",
+      "amount": "₹500"
     }
   ],
-  
+
   "thank_you_message": "Thanks to all our supporters! 💕"
 }
