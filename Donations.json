@@ -21,16 +21,21 @@
     },
     {
       "emoji": "🥈",
+      "name": "Jose Nogueira",
+      "amount": "$10.00"
+    },
+    {
+      "emoji": "🥉",
       "name": "彡 CarlosR7 🇭🇳 彡",
       "amount": "$8.74"
     },
     {
-      "emoji": "🥉",
+      "emoji": "🏅",
       "name": "THOTA HARI KRISHNA",
       "amount": "₹800"
     },
     {
-      "emoji": "🏅",
+      "emoji": "🎖️",
       "name": "Shehzad Khan",
       "amount": "₹500"
     }
