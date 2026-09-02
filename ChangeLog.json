@@ -1,3 +1,21 @@
+
+{
+  "version": "v8.50",
+  "date": "2026-09-02",
+  "changes": [
+    "🚀 Version 8.5 Update",
+    "Stability Improvements & Fixes",
+
+    "✨ Added & Improved",
+    "iOS 26 Liquid Glass UI (Lag Fixed)",
+    "iOS Liquid Glass Profile Switch Fixed",
+    "Hidden Mention Indicator Improved",
+    "App Font DM Bug Fixed",
+    "Performance & Lag Improvements",
+    "UI Enhancements",
+    "More Stability Improvements"
+  ]
+},
 {
   "versions": [
     {
