@@ -1,23 +1,23 @@
-
-{
-  "version": "v8.50",
-  "date": "2026-09-02",
-  "changes": [
-    "🚀 Version 8.5 Update",
-    "Stability Improvements & Fixes",
-
-    "✨ Added & Improved",
-    "iOS 26 Liquid Glass UI (Lag Fixed)",
-    "iOS Liquid Glass Profile Switch Fixed",
-    "Hidden Mention Indicator Improved",
-    "App Font DM Bug Fixed",
-    "Performance & Lag Improvements",
-    "UI Enhancements",
-    "More Stability Improvements"
-  ]
-},
 {
   "versions": [
+    {
+      "version": "v8.50",
+      "date": "2026-09-02",
+      "changes": [
+        "🚀 Version 8.5 Update",
+        "Stability Improvements & Fixes",
+
+        "✨ Added & Improved",
+        "iOS 26 Liquid Glass UI (Lag Fixed)",
+        "iOS Liquid Glass Profile Switch Fixed",
+        "Hidden Mention Indicator Improved",
+        "App Font DM Bug Fixed",
+        "Performance & Lag Improvements",
+        "UI Enhancements",
+        "More Stability Improvements"
+      ]
+    },
+
     {
       "version": "v8.00",
       "date": "2026-08-05",
@@ -36,10 +36,10 @@
         "Change Like Animation (20+ Styles)",
         "Change App Font Fixed",
         "Hidden Mention Indicator Improved",
-        "Mark as Seen Stories Indicator Improved",
+        "Mark as Seen Stories Indicator Improved"
       ]
     },
-    
+
     {
       "version": "v7.00",
       "date": "2026-06-25",
@@ -62,7 +62,7 @@
         "Instagram Plus Features"
       ]
     },
-    
+
     {
       "version": "v6.00",
       "date": "2026-05-14",
@@ -82,7 +82,7 @@
         "Copy UserID"
       ]
     },
-    
+
     {
       "version": "v5.00",
       "date": "2026-04-25",
@@ -105,7 +105,7 @@
         "Copy Bio Option Removed"
       ]
     },
-    
+
     {
       "version": "v4.00",
       "date": "2026-03-16",
