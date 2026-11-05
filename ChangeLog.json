@@ -1,36 +1,35 @@
-{
-  "version": "v9.00",
-  "date": "2026-11-05",
-  "changes": [
-    "🚀 Version 9 Big Update",
-    "Stability Improvements & Fixes",
-
-    "✨ Added & Improved",
-    "Exclusive Verification Badge",
-    "Deleted Messages — All Media Support",
-    "Download History",
-    "Instant Download & Upload",
-    "Video to Audio in Chat",
-    "Send MP3 as Voice Message",
-    "Activity History",
-    "Hide Chat with Password & Fingerprint Lock",
-    "Quick Ghost Mode",
-    "Comment Translation",
-    "Auto Cache Cleaner",
-    "Liquid Glass Improvements",
-    "Removed All Files Access Permission"
-  ]
-},
 
 {
   "versions": [
+    {
+      "version": "v9.00",
+      "date": "2026-11-05",
+      "changes": [
+        "🚀 Version 9 Big Update",
+        "Stability Improvements & Fixes",
+
+        "✨ Added & Improved",
+        "Exclusive Verification Badge",
+        "Deleted Messages — All Media Support",
+        "Download History",
+        "Instant Download & Upload",
+        "Video to Audio in Chat",
+        "Send MP3 as Voice Message",
+        "Activity History",
+        "Hide Chat with Password & Fingerprint Lock",
+        "Quick Ghost Mode",
+        "Comment Translation",
+        "Auto Cache Cleaner",
+        "Liquid Glass Improvements",
+        "Removed All Files Access Permission"
+      ]
+    },
     {
       "version": "v8.50",
       "date": "2026-09-02",
       "changes": [
         "🚀 Version 8.5 Update",
         "Stability Improvements & Fixes",
-
         "✨ Added & Improved",
         "iOS 26 Liquid Glass UI (Lag Fixed)",
         "iOS Liquid Glass Profile Switch Fixed",
@@ -41,14 +40,12 @@
         "More Stability Improvements"
       ]
     },
-
     {
       "version": "v8.00",
       "date": "2026-08-05",
       "changes": [
         "🚀 Version 8 Big Update",
         "Stability Improvements & Fixes",
-
         "✨ Added & Improved",
         "iOS Liquid Glass Navigation (BETA)",
         "Mark as Read After Reply",
@@ -63,14 +60,12 @@
         "Mark as Seen Stories Indicator Improved"
       ]
     },
-
     {
       "version": "v7.00",
       "date": "2026-06-25",
       "changes": [
         "🚀 Version 7 Big Update",
         "Stability Improvements & Fixes",
-
         "✨ Added & Improved",
         "Deleted Messages (BETA)",
         "Voice Message Download",
@@ -86,14 +81,12 @@
         "Instagram Plus Features"
       ]
     },
-
     {
       "version": "v6.00",
       "date": "2026-05-14",
       "changes": [
         "🚀 Version 6 Big Update",
         "Stability Improvements & Fixes",
-
         "➕ Added Features",
         "Hidden Mentions Indicator",
         "Custom Story Fonts",
@@ -106,36 +99,30 @@
         "Copy UserID"
       ]
     },
-
     {
       "version": "v5.00",
       "date": "2026-04-25",
       "changes": [
         "🚀 Version 5 Update",
         "Stability Improvements & Fixes",
-
         "✨ Updated & Fixed",
         "User List Follow Indicator Fixed",
         "Change Chat Background Fixed",
         "Remove Empty Space Fixed",
         "Hide Opened Media Fixed",
-
         "➕ Added Features (Miscellaneous)",
         "Story Timestamp Options Added",
         "Sanitize URLs Added",
         "Story Ring Size Re-Added",
-
         "❌ Removed",
         "Copy Bio Option Removed"
       ]
     },
-
     {
       "version": "v4.00",
       "date": "2026-03-16",
       "changes": [
         "🚀 Version 4 Major Update",
-
         "✨ Special Features",
         "Copy Bio + Auto Save",
         "Copy Comments + Auto Save",
@@ -144,19 +131,16 @@
         "User List Follow Indicator (BETA)",
         "Auto Cache Cleaner",
         "Change Chat Background",
-
         "⚙️ Extra Mode",
         "Remove Empty Space (Experimental)",
         "50+ Languages Added"
       ]
     },
-
     {
       "version": "v3.00",
       "date": "2026-02-10",
       "changes": [
         "🚀 Version 3 Major Update",
-
         "✨ Special Features",
         "Redesigned Notes Layout",
         "Content Layout customization",
@@ -168,39 +152,32 @@
         "Advanced Repost",
         "Enhanced Media Quality",
         "Valentine Theme & Sticker",
-
         "⚙️ Extra Mode",
         "Disable Story Auto-Next"
       ]
     },
-
     {
       "version": "v2.00",
       "date": "2026-01-25",
       "changes": [
         "🚀 Version 2 Major Update",
-
         "🧘 Distraction Free Mode",
         "Hide suggested posts",
         "Hide reels from feed",
         "Hide Stories Tray",
         "Clean and focused home feed",
-
         "🙈 Hidden Mentions",
         "View Hidden Mentions in Stories",
         "View Hidden Mentions in Highlights",
-
         "🎨 UI Improvements",
         "Polished layouts",
         "Minor UI fixes",
         "Better spacing and alignment",
-
         "⚡ Performance",
         "Faster app loading",
         "Improved stability"
       ]
     },
-
     {
       "version": "v1.00",
       "date": "2026-01-14",
@@ -210,7 +187,6 @@
         "Custom InstaZen settings panel",
         "Modern dark UI design",
         "Optimized performance",
-
         "👻 Ghost Mode",
         "Hide typing indicator",
         "Hide story views",
@@ -219,21 +195,17 @@
         "Hide screenshot detection",
         "Hide replay status",
         "Hide seen status in DM",
-
         "⭐ Special Features",
         "Follow indicator",
         "Full screen reels",
         "Priority stories",
         "120 sec music stories",
         "Enhanced media quality",
-
         "🎨 Emojis & Fonts",
         "Change emoji style",
         "Emoji menu via icon long press",
-
         "⬇️ Download",
         "Improved download options",
-
         "🧰 Stability",
         "Reduced lag",
         "Bug fixes"
