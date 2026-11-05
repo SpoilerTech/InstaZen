@@ -1,4 +1,28 @@
 {
+  "version": "v9.00",
+  "date": "2026-11-05",
+  "changes": [
+    "🚀 Version 9 Big Update",
+    "Stability Improvements & Fixes",
+
+    "✨ Added & Improved",
+    "Exclusive Verification Badge",
+    "Deleted Messages — All Media Support",
+    "Download History",
+    "Instant Download & Upload",
+    "Video to Audio in Chat",
+    "Send MP3 as Voice Message",
+    "Activity History",
+    "Hide Chat with Password & Fingerprint Lock",
+    "Quick Ghost Mode",
+    "Comment Translation",
+    "Auto Cache Cleaner",
+    "Liquid Glass Improvements",
+    "Removed All Files Access Permission"
+  ]
+},
+
+{
   "versions": [
     {
       "version": "v8.50",
