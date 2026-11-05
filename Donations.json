@@ -1,3 +1,4 @@
+
 {
   "upi": {
     "qr_image": "https://github.com/user-attachments/assets/695742e5-d3ca-45b6-b997-0edd5f97db16",
@@ -38,6 +39,11 @@
       "emoji": "🎖️",
       "name": "Shehzad Khan",
       "amount": "₹500"
+    },
+    {
+      "emoji": "🩵",
+      "name": "SANSKRITI SINGH",
+      "amount": "₹100"
     }
   ],
 
