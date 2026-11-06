@@ -1,51 +1,56 @@
-
 {
   "upi": {
     "qr_image": "https://github.com/user-attachments/assets/695742e5-d3ca-45b6-b997-0edd5f97db16",
     "upi_id": "spoilertechuco@ybl"
   },
-
   "paypal": {
     "qr_image": "https://github.com/user-attachments/assets/6de6d730-edbf-401a-83fb-dd070456c4d2",
     "paypal_link": "https://www.paypal.me/SpoilerTech"
   },
-
   "youtube": {
     "channel_link": "https://www.youtube.com/@SpoilerTech/join"
   },
-
   "top_donations": [
     {
       "emoji": "🥇",
-      "name": "KARAN ❤️",
+      "name": "KARAN",
       "amount": "₹2000"
     },
     {
       "emoji": "🥈",
+      "name": "CARLOS MANUEL",
+      "amount": "£11.99"
+    },
+    {
+      "emoji": "🥉",
       "name": "Jose Nogueira",
       "amount": "$10.00"
     },
     {
-      "emoji": "🥉",
+      "emoji": "🏅",
       "name": "彡 CarlosR7 🇭🇳 彡",
       "amount": "$8.74"
     },
     {
-      "emoji": "🏅",
+      "emoji": "🎖️",
       "name": "THOTA HARI KRISHNA",
       "amount": "₹800"
     },
     {
-      "emoji": "🎖️",
-      "name": "Shehzad Khan",
+      "emoji": "🩵",
+      "name": "SHEHZAD KHAN",
       "amount": "₹500"
     },
     {
       "emoji": "🩵",
       "name": "SANSKRITI SINGH",
       "amount": "₹100"
+    },
+    {
+      "emoji": "🩵",
+      "name": "RISHJYOTI SAIKIA",
+      "amount": "₹100"
     }
   ],
-
   "thank_you_message": "Thanks to all our supporters! 💕"
 }
